@@ -78,9 +78,10 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ## 🔗 Connect
 
 - **Main Project:** [Loan AI Management System](https://github.com/Vaibhav-Lohar-28/loan-ai-management-system)
-- **LinkedIn:** [Your Profile]
-- **Email:** [Your Email]
+- **LinkedIn:** [https://www.linkedin.com/in/vaibhav-lohar-38b78a28b/]
+- **Email:** [suravanshivaibhava2805@gmail.com]
 
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
