@@ -9,7 +9,6 @@ My personal ML learning repository - documenting my journey from fundamentals to
 - [x] First ML Model (Iris Classification)
 - [X] Feature Engineering
 - [X] Model Evaluation Metrics
-- [ ] Cross-validation
 
 ### Phase 2: Algorithms (Week 3-4)
 - [ ] Decision Trees
@@ -84,6 +83,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
 
 
 
