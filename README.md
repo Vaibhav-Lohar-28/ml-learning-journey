@@ -11,7 +11,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 - [X] Model Evaluation Metrics
 
 ### Phase 2: Algorithms (Week 3-4)
-- [ ] Decision Trees
+- [X] Decision Trees
 - [ ] Random Forest
 - [ ] XGBoost
 - [ ] Logistic Regression
@@ -83,6 +83,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
 
 
 
