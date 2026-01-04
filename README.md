@@ -12,7 +12,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 
 ### Phase 2: Algorithms (Week 3-4)
 - [X] Decision Trees
-- [ ] Random Forest
+- [X] Random Forest
 - [ ] XGBoost
 - [ ] Logistic Regression
 - [ ] K-Means Clustering
@@ -83,6 +83,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
 
 
 
