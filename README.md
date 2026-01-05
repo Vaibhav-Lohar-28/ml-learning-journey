@@ -7,7 +7,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ### Phase 1: Fundamentals (Week 1-2)
 - [x] Environment Setup
 - [x] First ML Model (Iris Classification)
-- [X] Feature Engineering
+- [X] Feature Engineering  
 - [X] Model Evaluation Metrics
 
 ### Phase 2: Algorithms (Week 3-4)
@@ -83,6 +83,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
 
 
 
