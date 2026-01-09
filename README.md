@@ -1,19 +1,18 @@
-# 🎓 Machine Learning Learning Journey
+# 🎓 Machine Learning Learning Journey 
 
 My personal ML learning repository - documenting my journey from fundamentals to advanced ML concepts.
 
-## 📚 Learning Path
-
+## 📚 Learning Path   
+ 
 ### Phase 1: Fundamentals (Week 1-2)
 - [x] Environment Setup
 - [x] First ML Model (Iris Classification)
-- [X] Feature Engineering
+- [X] Feature Engineering    
 - [X] Model Evaluation Metrics
-- [ ] Cross-validation
-
+  
 ### Phase 2: Algorithms (Week 3-4)
-- [ ] Decision Trees
-- [ ] Random Forest
+- [X] Decision Trees  
+- [X] Random Forest
 - [ ] XGBoost
 - [ ] Logistic Regression
 - [ ] K-Means Clustering
@@ -42,7 +41,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 | Project | Status | Accuracy | Link |
 |---------|--------|----------|------|
 | Iris Classification | ✅ Complete | 96.7% | [Notebook](./01_fundamentals/basics/00_first_model.ipynb) |
-| Heart Disease | 🔄 In Progress | - | - |
+| Heart Disease | 🔄 In Progress | - | - |     
 | Fraud Detection | ⏳ Planned | - | - |
 
 ## 📈 Progress Tracker
@@ -84,4 +83,26 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
