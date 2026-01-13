@@ -20,7 +20,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ### Phase 3: NLP Basics (Week 5-6)
 - [ ] Text Preprocessing
 - [ ] Sentiment Analysis
-- [ ] Chatbot Development
+- [ ] Chatbot Development 
 
 ### Phase 4: Practice Projects (Week 7-8)
 - [ ] Heart Disease Prediction
@@ -83,6 +83,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
 
 
 
