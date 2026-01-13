@@ -10,7 +10,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 - [X] Feature Engineering    
 - [X] Model Evaluation Metrics
   
-### Phase 2: Algorithms (Week 3-4)
+### Phase 2: Algorithms (Week 3-4) 
 - [X] Decision Trees  
 - [X] Random Forest
 - [ ] XGBoost
@@ -83,6 +83,7 @@ My personal ML learning repository - documenting my journey from fundamentals to
 ---
 
 ⭐ This repository is for learning purposes. Feel free to explore and learn along!
+
 
 
 
